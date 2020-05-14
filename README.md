@@ -9,5 +9,3 @@ The following folders contain my work for each module of the course. The course 
 4. Data Visualisation
 5. Statistics
 6. Exploratory Data Analysis 
-
-This is a test
